@@ -1,0 +1,11 @@
+
+
+[BingTranslater]
+
+# Get Client Id and Client Secret from https://datamarket.azure.com/developer/applications/
+# make sure to replace client_id with your client id
+# replace the client secret with the client secret for you app.
+
+client_id = 
+client_secret = 
+
